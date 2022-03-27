@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ukra1n1anUnd3rd0g
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning modules and packages
+- 🌱 I’m currently learning classes and object-oriented programming
 
 <!---
 Ukra1n1anUnd3rd0g/Ukra1n1anUnd3rd0g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
